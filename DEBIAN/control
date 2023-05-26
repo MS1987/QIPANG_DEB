@@ -1,0 +1,8 @@
+Package: Makerbase-deb-update
+Version: 1.0.2
+Architecture: arm64
+Uploaders: Makerbase
+Maintainer: Makerbase
+Section: devel
+Essential: no
+Description: 修改了选择打印文件后立刻跳转到主界面

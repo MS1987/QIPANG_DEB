@@ -1,0 +1,4 @@
+#! /bin/bash
+chmod 777 /root/auto_refresh
+chgrp netdev /home/mks/ -R
+chown mks /home/mks/ -R
