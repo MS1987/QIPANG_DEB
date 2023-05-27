@@ -1,8 +1,8 @@
 Package: Makerbase-deb-update
-Version: 1.0.2
+Version: 1.0.4
 Architecture: arm64
 Uploaders: Makerbase
 Maintainer: Makerbase
 Section: devel
 Essential: no
-Description: 修改了选择打印文件后立刻跳转到主界面
+Description: 更新王立帅2023.5.30下午的配置文件
