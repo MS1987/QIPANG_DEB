@@ -1,8 +1,8 @@
 Package: Makerbase-deb-update
-Version: 1.0.4
+Version: 1.0.5
 Architecture: arm64
 Uploaders: Makerbase
 Maintainer: Makerbase
 Section: devel
 Essential: no
-Description: 更新王立帅2023.5.30下午的配置文件
+Description: 更新王立帅2023.6.5的配置文件,增加加热不等待稳定温度就打印
